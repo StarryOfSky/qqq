@@ -1,0 +1,47 @@
+{
+  "Name":"西部联盟",
+"members": [
+ {
+"name":"明尼苏达森林狼",
+"stadium":"标靶中心球馆（Target Center）",
+"time":"1989年",
+"coach":"汤姆·锡伯杜（Tom Thibodeau）"
+
+  }
+,
+ {
+  "name":"丹佛掘金",
+  "stadium":"百事中心球馆（Pepsi Center）",
+  "time":"1976年",
+  "coach":"迈克·马龙（Mike Malone）"
+}
+,
+ {
+  "name":"犹他爵士",
+  "stadium":"球馆（Delta Center）",
+  "time":"1974年",
+  "coach":"奎因·斯奈德（Quin Snyder）"
+}
+,
+ {
+  "name":"波特兰开拓者",
+  "stadium":"玫瑰花园球馆（The Rose Garden）",
+  "time":"1970年",
+  "coach":"特里·斯托茨（Terry Stotts）"
+}
+,
+ {
+  "name":"俄克拉荷马雷霆",
+  "stadium":"福特中心球场",
+  "time":"2008年9月3日（前身西雅图超音速队加入NBA为1967年）",
+  "coach":"比利·多诺万（Billy Donovan）"
+}
+,
+ {
+  "name":"萨克拉门托国王",
+  "stadium":"福特中心球场",
+  "time":"2008年9月3日（前身西雅图超音速队加入NBA为1967年）",
+  "coach":"比利·多诺万（Billy Donovan）"
+}
+]
+}
