@@ -39,9 +39,72 @@
 ,
  {
   "name":"萨克拉门托国王",
-  "stadium":"福特中心球场",
-  "time":"2008年9月3日（前身西雅图超音速队加入NBA为1967年）",
-  "coach":"比利·多诺万（Billy Donovan）"
+  "stadium":"阿科球馆（ARCO Arena）",
+  "time":"1948年",
+  "coach":"戴夫·乔尔格（Dave Joerger）"
+}
+,
+{
+ "name":"洛杉矶湖人",
+ "stadium":"斯台普斯球馆（STAPLES Center）",
+ "time":"1948年",
+ "coach":"卢克·沃顿（Luke Walton）"
+}
+,
+{
+ "name":"菲尼克斯太阳",
+ "stadium":"美西球馆（US Airways Center）",
+ "time":"1968年",
+ "coach":"厄尔·沃特森（Earl Watson）"
+}
+,
+{
+ "name":"金州勇士",
+ "stadium":"甲骨文球馆（Oracle Arena）",
+ "time":"1946年",
+ "coach":"史蒂夫·科尔（Steve Kerr ）"
+}
+,
+{
+ "name":"洛杉矶快船",
+ "stadium":"斯台普斯球馆（STAPLES Center）",
+ "time":"1970年",
+ "coach":"道格·里弗斯（Doc Rivers）"
+}
+,
+{
+ "name":"圣安东尼奥马刺",
+ "stadium":"AT&T中心（AT&T Center）",
+ "time":"1976年",
+ "coach":"格雷格·波波维奇（Gregg Popovich）"
+}
+,
+{
+ "name":"休斯敦火箭",
+ "stadium":"丰田中心球馆（Toyota Center）",
+ "time":"1967年",
+ "coach":"麦克·德安东尼（Mike D'Antoni）"
+}
+,
+{
+ "name":"达拉斯独行侠",
+ "stadium":"美国航线中心体育馆（American Airlines Center）",
+ "time":"1980年",
+ "coach":"里克·卡莱尔（Rick Carlisle）"
+}
+,
+{
+ "name":"孟菲斯灰熊",
+ "stadium":"联邦快递球馆（FedExForum）",
+ "time":"1995年",
+ "coach":"大卫·菲兹戴尔（David Fizdale）"
+}
+,
+{
+ "name":"新奥尔良鹈鹕",
+ "stadium":"新奥尔良球馆（New Orleans Arena）",
+ "time":"1988年",
+ "coach":"阿尔文·金特里（Alvin Gentry）"
 }
 ]
 }
